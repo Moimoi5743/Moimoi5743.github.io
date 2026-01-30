@@ -34,7 +34,7 @@
 <body>
 
     <div class="gif-container">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/c76IJLufpNUMo/giphy.gif" alt="Mignon">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgya3Z0dmV3aGt2ajBwMjEwM2MyYXl6cmd6djNmaHZybndydzk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTFIYEhbTsT829Qfcg/giphy.gif" alt="Mignon">
     </div>
 
     <h1>Veux-tu être ma Valentine Stessy ? ❤️</h1>
