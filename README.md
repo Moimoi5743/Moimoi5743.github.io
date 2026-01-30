@@ -37,7 +37,7 @@
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/c76IJLufpNUMo/giphy.gif" alt="Mignon">
     </div>
 
-    <h1>Veux-tu être ma Valentine ? ❤️</h1>
+    <h1>Veux-tu être ma Valentine Stessy ? ❤️</h1>
 
     <div class="buttons">
         <button id="yesBtn" onclick="celebrate()">OUI !</button>
